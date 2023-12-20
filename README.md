@@ -1,2 +1,3 @@
 # CodesDB
-This is repository contains the code which i will be doing everyday probably.
+
+#### CodeDB is a place where all my code snippets releated to whatever i learn lies Here...
