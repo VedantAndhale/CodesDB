@@ -4,8 +4,8 @@
   "settings": {
     "C_Cpp.autocomplete": "Disabled",
     "C_Cpp.intelliSenseEngine": "Disabled",
-    "javascript.suggest.enabled": false,
-    "python.autoComplete.showAdvancedMembers": false,
+    "javascript.suggest.enabled": true,
+    "python.autoComplete.showAdvancedMembers": true,
     "scm.countBadge": "off",
     "terminal.integrated.profiles.linux": {
       "bash (login)": {
