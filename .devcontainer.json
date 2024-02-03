@@ -1,5 +1,15 @@
 {
-  "extensions": ["ms-vscode.cpptools", "ms-python.python", "MS-vsliveshare.vsliveshare-pack"],
+  "extensions": [
+    "ms-vscode.cpptools",
+    "ms-python.python",
+    "MS-vsliveshare.vsliveshare-pack",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-toolsai.jupyter",
+    "ritwickdey.LiveServer",
+    "PKief.material-icon-theme",
+    "alexcvzz.vscode-sqlite",
+    "enkia.tokyo-night"
+  ],
   "image": "cs50/codespace:latest",
   "settings": {
     "C_Cpp.autocomplete": "Disabled",
